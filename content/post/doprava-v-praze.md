@@ -1,7 +1,7 @@
 ---
 date: 2022-01-31T11:00:59-04:00
 description: "Doprava v Praze"
-featured_image: "objizdky-a-uzavirky.jpg"
+featured_image: "/objizdky-a-uzavirky.jpg"
 tags: []
 title: "Doprava v Praze"
 ---
